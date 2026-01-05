@@ -27,6 +27,9 @@ const Header = () => {
           <a href="#integration" className="text-sm text-primary-foreground/80 hover:text-primary-foreground transition-colors">
             Integration
           </a>
+          <a href="/documentation" className="text-sm text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+            Documentation
+          </a>
         </nav>
         <div className="flex items-center gap-2">
           <ThemeToggle />
